@@ -1,0 +1,1827 @@
+Medical Specialties
+Medical Specialties	Wilderness Medicine
+Medical Specialties	Preventive Medicine
+Medical Specialties	Preventive Medicine	Cancer Prevention
+Medical Specialties	Preventive Medicine	Cancer Prevention	Cancer Screening
+Medical Specialties	Preventive Medicine	Cancer Prevention	Cancer Screening	Breast Cancer Detection
+Medical Specialties	Preventive Medicine	Mammograms
+Medical Specialties	Preventive Medicine	Colonoscopy
+Medical Specialties	Preventive Medicine	Going to the Doctor
+Medical Specialties	Preventive Medicine	Immunizations
+Medical Specialties	Dietetics
+Medical Specialties	Optometry
+Medical Specialties	Optometry	Optometrist
+Medical Specialties	Optometry	Strabismus
+Medical Specialties	Optometry	Presbyopia
+Medical Specialties	Nursing
+Medical Specialties	Nursing	Nurses
+Medical Specialties	Nursing	Nurses	Nurse Practitioners
+Medical Specialties	Nursing	Nurses	Registered Nurse
+Medical Specialties	Nursing	Nursing School
+Medical Specialties	Nursing	Nursing School	Nursing Exams
+Medical Specialties	Nursing	Midwifery
+Medical Specialties	Nursing	Certified Nursing Assistance
+Medical Specialties	Aviation Medicine
+Medical Specialties	Osteopathic Medicine
+Medical Specialties	Regenerative Medicine
+Medical Specialties	Regenerative Medicine	Tissue Engineering
+Medical Specialties	Regenerative Medicine	Stem Cells
+Medical Specialties	Regenerative Medicine	Stem Cells	Induced Pluripotent Stem Cells
+Medical Specialties	Regenerative Medicine	Stem Cells	Stem Cell Research
+Medical Specialties	Immunology
+Medical Specialties	Immunology	Intestinal Bacteria
+Medical Specialties	Immunology	Immunizations
+Medical Specialties	Immunology	Autoimmunity
+Medical Specialties	Immunology	Autoimmunity	Allergies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Hives
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Sitters
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Small Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Walkers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Meat
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	DogsBite.org
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Disabled Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Matchpuppy
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Mutts
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Health
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Parks
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Blackwood, NJ
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Blackwood, NJ	Doberman
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Clicker Training
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Attack Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Puppies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Puppies	Clicker Training
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Hunting Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Small Dog Syndrome
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Clicker Training
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Dog Training
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Dog Training	Puppies Behind Bars
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Dog Training	Clicker Training
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Biting (dogs)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Grooming
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Weimaraners
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Boo (dog)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Supplies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Guide Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Whelping
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Kennels
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Service Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Service Dogs	Therapy Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Memory
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog-Friendly Places
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog-Friendly Places	Dog Parks
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Stray Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Raggle
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Rottaf
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Schnoodles
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Pugapoo
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Papigriffon
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Olde Bulldog
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Labradoodle
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Lab Aire
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Goldendoodles
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Cockapoo
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Chug
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Bowzer
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Affenhuahua
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Affenpoo
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Airedoodles
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Yorkie-Chon
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Maru (mixed breed dog)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Labrotties
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Labradoodle
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Irish Setters
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Portuguese Water Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Samoyeds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Rottweilers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Bernese Mountain Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Toy Poodles
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Yorkshire Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Toy Fox Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Silky Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Shih Tzu
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pugs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pomeranians
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pomeranians	Boo (dog)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Petit Brabançon
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pekingese
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Papillons
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Miniature Pinschers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Manchester Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Maltese
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Japanese Chin (dog)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Italian Greyhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Havanese
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	English Toy Spaniel
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Chinese Crested
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Chihuahuas
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Cavalier King Charles Spaniel
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Brussels Griffons
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Affenpinscher
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Pit Bulls
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Rat Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Fox Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Sealyham Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	English Setters
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	English Cocker Spaniels
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Curly-Coated Retrievers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Vizslas
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Spinone Italiano
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Labrador Retrievers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Golden Retrievers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Cocker Spaniels
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Clumber Spaniels
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Chesapeake Bay Retrievers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Brittanys (dog)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Boykin Spaniels
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	American Water Spaniels
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Xoloitzcuintle
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Tibetan Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Tibetan Spaniels
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Shiba Inus
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Schipperkes
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Poodles
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Norweigian Lundehunds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Lowchens
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Lhasa Apsos
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Keeshonds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	French Bulldogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Finnish Spitz
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Dalmatians
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Chow Chows
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Chinese Shar-Pei
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Bulldogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Boston Terriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Bichon Frise
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	American Eskimo Dog
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Rhodesian Ridgebacks
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Petit Basset Griffon Vendéen
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Otterhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Norwegian Elkhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Harriers
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Foxhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Foxhounds	English Foxhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Foxhounds	American Foxhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Dachshunds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Plotts
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Redbone Coonhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Bluetick Coonhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Black and Tan Coonhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Bloodhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Beagles
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Basset Hounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Basenjis
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Whippets
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Scottish Deerhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Salukis
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Pharaoh Hounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Irish Wolfhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Ibizan Hounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Greyhounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Greyhounds	Greyhound Racing
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Borzois
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Afghan Hounds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Swedish Vallhunds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Shetland Sheepdogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Pyrenean Shepherds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Puli (dog)
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Polish Lowlands
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Pembroke Welsh Corgis
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Old English Sheepdogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Norwegian Buhunds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Icelandic Sheepdogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	German Shepherd Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Entlebucher Mountain Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Collies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Cardigan Welsh Corgis
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Canaan Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Briards
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Bouvier Des Flandres
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Border Collies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Belgian Tervurens
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Belgian Sheepdogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Belgian Malinois
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Beaucerons
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Bearded Collies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Australian Shepherds
+Medical Specialties	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Australian Cattle Dogs
+Medical Specialties	Immunology	Autoimmunity	Allergies	Hypoallergenic Products
+Medical Specialties	Immunology	Autoimmunity	Allergies	Allergy Shots
+Medical Specialties	Immunology	Autoimmunity	Allergies	Food Allergies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Food Allergies	Peanut Allergies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Food Allergies	Gluten Allergies
+Medical Specialties	Immunology	Autoimmunity	Allergies	Food Allergies	Gluten Allergies	Celiac Disease
+Medical Specialties	Immunology	Autoimmunity	Allergies	National Institute of Allergy and Infectious Diseases (NIAID)
+Medical Specialties	Immunology	Autoimmunity	Rheumatoid Arthritis
+Medical Specialties	Immunology	Autoimmunity	Lupus
+Medical Specialties	Immunology	Autoimmunity	Allergies	Food Allergies	Gluten Allergies	Celiac Disease
+Medical Specialties	Immunology	Clinical Immunology
+Medical Specialties	Immunology	Tregs
+Medical Specialties	Immunology	Infectious Diseases
+Medical Specialties	Immunology	Infectious Diseases	Lyme Disease
+Medical Specialties	Immunology	Infectious Diseases	Medical Mycology
+Medical Specialties	Immunology	Infectious Diseases	Urinary Tract Infections
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Leprosy
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Sleeping Sickness
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Chagas Disease
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Malaria
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Dengue Fever
+Medical Specialties	Immunology	Infectious Diseases	MAC (Mycobacterium avium complex)
+Medical Specialties	Immunology	Infectious Diseases	Parasites
+Medical Specialties	Immunology	Infectious Diseases	Parasites	Giardia
+Medical Specialties	Immunology	Infectious Diseases	Parasites	Malaria
+Medical Specialties	Immunology	Infectious Diseases	Disease Eradication
+Medical Specialties	Immunology	Infectious Diseases	Polio
+Medical Specialties	Immunology	Infectious Diseases	Yellow Fever (viral disease)
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Immunology	Infectious Diseases	Staph Infection
+Medical Specialties	Immunology	Infectious Diseases	Anthrax
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis C
+Medical Specialties	Immunology	Infectious Diseases	Chlamydia
+Medical Specialties	Immunology	Infectious Diseases	Yeast Infections
+Medical Specialties	Immunology	Infectious Diseases	Virology
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	SARS
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	MERS-CoV (Virus)
+Medical Specialties	Immunology	Infectious Diseases	Virology	HIV
+Medical Specialties	Immunology	Infectious Diseases	Virology	HIV	HIV Prevention
+Medical Specialties	Immunology	Infectious Diseases	Virology	HIV	AIDS Research
+Medical Specialties	Immunology	Infectious Diseases	Virology	Bacteriophage
+Medical Specialties	Immunology	Infectious Diseases	Virology	Human Papilloma Virus (HPV)
+Medical Specialties	Immunology	Infectious Diseases	Virology	Hepatitis C
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Immunology	Infectious Diseases	Immunizations
+Medical Specialties	Immunology	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Immunology	Infectious Diseases	Mad Cow Disease
+Medical Specialties	Immunology	Infectious Diseases	Prions
+Medical Specialties	Immunology	Infectious Diseases	Tetanus
+Medical Specialties	Immunology	Infectious Diseases	Fever
+Medical Specialties	Immunology	Infectious Diseases	Fever	Typhoid Fever
+Medical Specialties	Immunology	Infectious Diseases	Fever	Dengue Fever
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis	Hepatitis B
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis	Hepatitis C
+Medical Specialties	Immunology	Infectious Diseases	Plagues
+Medical Specialties	Immunology	Infectious Diseases	National Institute of Allergy and Infectious Diseases (NIAID)
+Medical Specialties	Immunology	Infectious Diseases	Mononucleosis
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Physical Medicine and Rehabilitation
+Medical Specialties	Physical Medicine and Rehabilitation	Pain Management
+Medical Specialties	Physical Medicine and Rehabilitation	Sports Medicine
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Recreation Therapy
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Acute Care Physical Therapy
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Envy
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Thai Massage
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Thai Massage	AcroYoga
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Physical Medicine and Rehabilitation	Physical Therapy	Frozen Shoulder
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Occupational Therapy
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Apraxia
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Down Syndrome
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Cerebral Palsy
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Autism Spectrum
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Autism Spectrum	Autism
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Autism Spectrum	Autism	Autism Rights
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Autism Spectrum	Rett Syndrome
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Autism Spectrum	Asperger Syndrome
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Intellectual Disabilities
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Williams-Beuren Syndrome
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Reading Challenges
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Hearing Loss
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Hearing Loss	Hearing Loss in Children
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Hearing Loss	Deafness
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Hearing Loss	Deafness	Helen Keller
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Hearing Loss	Deafness	Teleprinters
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Language Disorders
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Voice Disorders
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Speech Sound Disorders
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Sensory Processing Disorder
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Vocabulary/Naming Disorders
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Stuttering
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Dyscalculia
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Dyslexia
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Dyslexia	Dysgraphia
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Dyslexia	Dyscalculia
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Autism Spectrum	Autism
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Developmental Disabilities	Autism Spectrum	Autism	Autism Rights
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Blindness
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Blindness	The Norwegian Library of Talking Books and Braille
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Blindness	DAISY Consortium
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Blindness	DAISY Consortium	The Norwegian Library of Talking Books and Braille
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Speech Therapy	Communication Disorders	Blindness	Helen Keller
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Brain Injury
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Brain Injury	Traumatic Brain Injury
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Brain Injury	Traumatic Brain Injury	Concussions
+Medical Specialties	Physical Medicine and Rehabilitation	Injury Rehabilitation	Brain Injury	Acquired Brain Injury
+Medical Specialties	Pulmonology
+Medical Specialties	Pulmonology	Lung Cancer
+Medical Specialties	Pulmonology	Pulmonary Fibrosis
+Medical Specialties	Physiology
+Medical Specialties	Physiology	Plant Physiology
+Medical Specialties	Physiology	Cell Physiology
+Medical Specialties	Physiology	Animal Physiology
+Medical Specialties	Physiology	Electrophysiology
+Medical Specialties	Physiology	Night Vision
+Medical Specialties	Physiology	Night Vision	Optics
+Medical Specialties	Physiology	Night Vision	Optics	Microscopy
+Medical Specialties	Physiology	Night Vision	Optics	Microscopy	Confocal Microscopy
+Medical Specialties	Physiology	Night Vision	Optics	Microscopy	Electron Microscopy
+Medical Specialties	Physiology	Night Vision	Optics	Reflection (optics)
+Medical Specialties	Physiology	Night Vision	Optics	Diffraction
+Medical Specialties	Physiology	Night Vision	Optics	Radio Interference
+Medical Specialties	Physiology	Night Vision	Optics	Lenses
+Medical Specialties	Physiology	Night Vision	Optics	Mirrors
+Medical Specialties	Physiology	Night Vision	Optics	Lasers
+Medical Specialties	Physiology	Night Vision	Optics	Lasers	Laser Tag
+Medical Specialties	Physiology	Night Vision	Optics	Lasers	Laser Cutting
+Medical Specialties	Physiology	Night Vision	Optics	Optical Fiber
+Medical Specialties	Physiology	Night Vision	Optics	Optical Fiber	Fibre to the Cabinet
+Medical Specialties	Physiology	Night Vision	Optics	Optical Fiber	Fibre to the Cabinet	BT Infinity
+Medical Specialties	Physiology	Night Vision	Optics	Optical Fiber	Fiber to the Home
+Medical Specialties	Physiology	Lactation
+Medical Specialties	Physiology	Lactation	Male Lactation
+Medical Specialties	Physiology	Human Physiology
+Medical Specialties	Physiology	Human Physiology	Blood Pressure
+Medical Specialties	Physiology	Human Physiology	Blood Pressure	Low Blood Pressure
+Medical Specialties	Physiology	Human Physiology	Blood Pressure	Hypertension
+Medical Specialties	Physiology	Human Physiology	Blood Pressure	Hypertension	Pulmonary Hypertension
+Medical Specialties	Physiology	Human Physiology	Exercise Physiology
+Medical Specialties	Physiology	Human Physiology	Dermatoglyphics
+Medical Specialties	Physiology	Human Physiology	Placebo Effect
+Medical Specialties	Physiology	Human Physiology	Placebo Effect	Placebos
+Medical Specialties	Physiology	Human Physiology	Human Evolution
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to New Zealand
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to South Africa
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to Brazil
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to Mexico
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to Germany
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Australian Immigration
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to India
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration in the E.U.
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Beurs (French Emigrants From Maghreb)
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Law
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Law	H1-B Visa Reform
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Law	H1-B Visa Reform	H1B1
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Law	UK Immigration Law
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	U.S. Citizenship
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	U.S. Citizenship	U.S. Passports
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	U.S. Citizenship	Green Card
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	U.S. Citizenship	Green Card	STEM Green Cards
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	U.S. Citizenship	Green Card
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	U.S. Citizenship	Green Card	STEM Green Cards
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	H1-B Visa Reform
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	H1-B Visa Reform	H1B1
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	U.S. Immigration	Advance Parole
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to Canada
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration to Canada	Quebec Immigration
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	UK Immigration
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Policy
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Policy	U.S. Immigration Reform
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Policy	U.S. Immigration Reform	Startup Visa
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Policy	H1-B Visa Reform
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigration Policy	H1-B Visa Reform	H1B1
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigrants
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Immigration	Immigrants	Undocumented Immigrants
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Emigration
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Emigration	Aliyah
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Vagabonding
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Liveaboards
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Liveaboards	Liveaboard Narrowboats
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Digital Nomads
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Digital Nomads	Lifestyle Design
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Digital Nomads	Lifestyle Design	New Lifestyle Secrets
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Permanent Tourist
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Hobos
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Digital Nomads
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Digital Nomads	Lifestyle Design
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Location-Independent Lifestyle	Digital Nomads	Lifestyle Design	New Lifestyle Secrets
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Rainbow Family Gathering
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Irish Travellers
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Human Migration	Nomads	Roma (Gypsies)
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Prehistoric Art
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Prehistoric Humans
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Stone Age
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Prehistory	Prehistoric Humans
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Homo Sapiens
+Medical Specialties	Physiology	Human Physiology	Human Evolution	Cultural Evolution
+Medical Specialties	Physiology	Human Physiology	Fainting
+Medical Specialties	Traumatology
+Medical Specialties	Pharmacy
+Medical Specialties	Pharmacy	Pharmacists
+Medical Specialties	Pharmacy	Ask a Pharmacist
+Medical Specialties	Veterinary Medicine
+Medical Specialties	Clinical Psychology & Psychiatry
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Group Therapy
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Cognitive Behavioral Therapy
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Neuroticism
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Sublimation
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Rationalisation
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Denial
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Melanie Klein
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Dream Interpretation
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Dream Interpretation	Water in Dreams
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Lucid Dreaming
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Nightmares
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Child Development
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Child Development	Thumb Sucking
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Child Development	Quib.ly
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	The Unconscious
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Carl Jung
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Carl Jung	Collective Unconscious
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Sigmund Freud
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Sigmund Freud	Psychological Repression
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Psychoanalysis	Object Relations Theory
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Therapy Methods
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Therapy Methods	Exposure Therapy
+Medical Specialties	Clinical Psychology & Psychiatry	Psychotherapy	Multidisciplinary Association for Psychedelic Studies
+Medical Specialties	Clinical Psychology & Psychiatry	Clinical Psychologists
+Medical Specialties	Hepatology
+Medical Specialties	Pharmacology
+Medical Specialties	Pharmacology	Pharmacodynamics
+Medical Specialties	Pharmacology	Psychopharmacology
+Medical Specialties	Pharmacology	Psychopharmacology	Placebo Effect
+Medical Specialties	Pharmacology	Psychopharmacology	Placebo Effect	Placebos
+Medical Specialties	Pharmacology	Pharmacogenomics
+Medical Specialties	Pharmacology	Chemical Formulations
+Medical Specialties	Pharmacology	Toxicology and Poison
+Medical Specialties	Pharmacology	Toxicology and Poison	Poisonous mushrooms
+Medical Specialties	Pharmacology	Toxicology and Poison	Drug Safety
+Medical Specialties	Pharmacology	Toxicology and Poison	Pesticides
+Medical Specialties	Pharmacology	Toxicology and Poison	Pesticides	Monsanto
+Medical Specialties	Pharmacology	Toxicology and Poison	Pesticides	Monsanto	Monsanto Acquires Climate Corporation (October 2013)
+Medical Specialties	Pharmacology	Toxicology and Poison	Pesticides	Forchlorfenuron
+Medical Specialties	Pharmacology	Toxicology and Poison	Carcinogens
+Medical Specialties	Pharmacology	QSAR
+Medical Specialties	Pharmacology	Neuropharmacology
+Medical Specialties	Pharmacology	Neuropharmacology	Pregnenolone
+Medical Specialties	Urology
+Medical Specialties	Urology	Urinary Tract Infections
+Medical Specialties	Urology	Andrology
+Medical Specialties	Rheumatology
+Medical Specialties	Sleep Medicine
+Medical Specialties	Primary Care Physicians
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Neti Pot
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Ears
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Ears	Ear Piercings
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Blocked Ears
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Noses
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Noses	Picking Your Nose
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Noses	Nose Breathing
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Septum
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Septum	Deviated Septum
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Nasal Polyps
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Auditory System
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Cochlear Implants
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Tinnitus
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Hearing Protection
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Hearing Aids
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Hearing Loss
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Hearing Loss	Hearing Loss in Children
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Hearing Loss	Deafness
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Hearing Loss	Deafness	Helen Keller
+Medical Specialties	Ear, Nose and Throat (ENT Medical Specialty)	Hearing	Hearing Loss	Deafness	Teleprinters
+Medical Specialties	Nephrology
+Medical Specialties	Nephrology	Kidney Stones
+Medical Specialties	Nephrology	Kidneys
+Medical Specialties	Nephrology	Kidneys	Kidney Transplant
+Medical Specialties	Nephrology	Kidneys	Kidney Stones
+Medical Specialties	Podiatry
+Medical Specialties	Pathology
+Medical Specialties	Pathology	Clinical Pathology
+Medical Specialties	Pathology	Clinical Pathology	Parasitology
+Medical Specialties	Pathology	Clinical Pathology	Hematology
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Leukemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Leukemia	Waldenstrom's Macroglobulinemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Lymphoma
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Lymphoma	Hodgkin's Lymphoma
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Hemophilia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Thalassemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Thalassemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Hemophilia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Lymphoma	Hodgkin's Lymphoma
+Medical Specialties	Pathology	Clinical Pathology	Medical Microbiology
+Medical Specialties	Pathology	Clinical Pathology	Clinical Immunology
+Medical Specialties	Pathology	Clinical Pathology	Histology
+Medical Specialties	Pathology	Clinical Pathology	Cytogenetics
+Medical Specialties	Pathology	Clinical Pathology	Clinical Chemistry
+Medical Specialties	Pathology	Inflammation
+Medical Specialties	Obstetrics and Gynecology
+Medical Specialties	Obstetrics and Gynecology	Fertility
+Medical Specialties	Obstetrics and Gynecology	Fertility	In vitro fertilization
+Medical Specialties	Obstetrics and Gynecology	Fertility	In vitro fertilization	Embryo Adoption
+Medical Specialties	Obstetrics and Gynecology	Fertility	In vitro fertilization	Preimplantation Genetic Diagnosis
+Medical Specialties	Obstetrics and Gynecology	Fetal Health
+Medical Specialties	Obstetrics and Gynecology	Gynecologists
+Medical Specialties	Obstetrics and Gynecology	Pregnancy
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Conception
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Unplanned Pregnancy
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Teen Pregnancy
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Santa Monica, CA
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Santa Monica, CA	Santa Monica College
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Pregnancy Tests
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Fetal Health
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Parental Leave
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Pregnancy Magazine
+Medical Specialties	Obstetrics and Gynecology	Pregnancy	Pregnancy and Work
+Medical Specialties	Geriatrics
+Medical Specialties	Dentistry
+Medical Specialties	Dentistry	Simmonds Dental Center
+Medical Specialties	Dentistry	Simmonds Dental Center	Orlando Dentist
+Medical Specialties	Dentistry	Cosmetic Dental Associates
+Medical Specialties	Dentistry	Cosmetic Dental Associates	Dentist In San Antonio
+Medical Specialties	Dentistry	Cosmetic Dental Associates	Orthodontics San Antonio
+Medical Specialties	Dentistry	Cosmetic Dental Associates	Teeth Whitening San Antonio
+Medical Specialties	Dentistry	Cosmetic Dental Associates	Cosmetic Dentist San Antonio
+Medical Specialties	Dentistry	Cosmetic Dental Associates	San Antonio Dentist
+Medical Specialties	Dentistry	Classen Family Dentistry
+Medical Specialties	Dentistry	Classen Family Dentistry	OKC Emergency Dentist
+Medical Specialties	Dentistry	Classen Family Dentistry	OKC Family Dentist
+Medical Specialties	Dentistry	Classen Family Dentistry	Oklahoma City Dentist
+Medical Specialties	Dentistry	Dental Insurance
+Medical Specialties	Dentistry	Dental Surgery
+Medical Specialties	Dentistry	Dental Health and Hygiene
+Medical Specialties	Dentistry	Dental Health and Hygiene	Products for Your Teeth & Mouth
+Medical Specialties	Dentistry	Dental Health and Hygiene	Products for Your Teeth & Mouth	Mouthwash
+Medical Specialties	Dentistry	Dental Health and Hygiene	Products for Your Teeth & Mouth	Dental Floss
+Medical Specialties	Dentistry	Dental Health and Hygiene	Products for Your Teeth & Mouth	Toothbrushes
+Medical Specialties	Dentistry	Dental Health and Hygiene	Products for Your Teeth & Mouth	Toothbrushes	Oral-B
+Medical Specialties	Dentistry	Dental Health and Hygiene	Products for Your Teeth & Mouth	Toothpaste
+Medical Specialties	Dentistry	Dental Health and Hygiene	Toothbrushing
+Medical Specialties	Dentistry	Dental Health and Hygiene	Toothbrushing	Toothbrushes
+Medical Specialties	Dentistry	Dental Health and Hygiene	Toothbrushing	Toothbrushes	Oral-B
+Medical Specialties	Dentistry	Dental Health and Hygiene	Toothbrushing	When to Brush Your Teeth
+Medical Specialties	Dentistry	Dental Health and Hygiene	Root Canal
+Medical Specialties	Dentistry	Dentists
+Medical Specialties	Dentistry	Dentists	Cosmetic Dental Associates
+Medical Specialties	Dentistry	Dentists	Cosmetic Dental Associates	Dentist In San Antonio
+Medical Specialties	Dentistry	Dentists	Cosmetic Dental Associates	Orthodontics San Antonio
+Medical Specialties	Dentistry	Dentists	Cosmetic Dental Associates	Teeth Whitening San Antonio
+Medical Specialties	Dentistry	Dentists	Cosmetic Dental Associates	Cosmetic Dentist San Antonio
+Medical Specialties	Dentistry	Dentists	Cosmetic Dental Associates	San Antonio Dentist
+Medical Specialties	Dentistry	Dentists	Classen Family Dentistry
+Medical Specialties	Dentistry	Dentists	Classen Family Dentistry	OKC Emergency Dentist
+Medical Specialties	Dentistry	Dentists	Classen Family Dentistry	OKC Family Dentist
+Medical Specialties	Dentistry	Dentists	Classen Family Dentistry	Oklahoma City Dentist
+Medical Specialties	Dentistry	Prosthodontics
+Medical Specialties	Dentistry	Periodontology
+Medical Specialties	Dentistry	Pediatric Dentistry
+Medical Specialties	Dentistry	Endodontics
+Medical Specialties	Dentistry	Orthodontics
+Medical Specialties	Dentistry	Orthodontics	Braces
+Medical Specialties	Dentistry	Oral and Maxillofacial Surgery
+Medical Specialties	Dentistry	Dental Implantology
+Medical Specialties	Dentistry	Cosmetic Dentistry
+Medical Specialties	Dentistry	Cosmetic Dentistry	Simmonds Dental Center
+Medical Specialties	Dentistry	Cosmetic Dentistry	Simmonds Dental Center	Orlando Dentist
+Medical Specialties	Dentistry	Cosmetic Dentistry	Cosmetic Dental Associates
+Medical Specialties	Dentistry	Cosmetic Dentistry	Cosmetic Dental Associates	Dentist In San Antonio
+Medical Specialties	Dentistry	Cosmetic Dentistry	Cosmetic Dental Associates	Orthodontics San Antonio
+Medical Specialties	Dentistry	Cosmetic Dentistry	Cosmetic Dental Associates	Teeth Whitening San Antonio
+Medical Specialties	Dentistry	Cosmetic Dentistry	Cosmetic Dental Associates	Cosmetic Dentist San Antonio
+Medical Specialties	Dentistry	Cosmetic Dentistry	Cosmetic Dental Associates	San Antonio Dentist
+Medical Specialties	Radiation Therapy
+Medical Specialties	Vascular Surgery
+Medical Specialties	Surgery
+Medical Specialties	Surgery	Operating Room (Healthcare)
+Medical Specialties	Surgery	Orthopedics
+Medical Specialties	Surgery	Orthopedics	Physical Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Recreation Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Acute Care Physical Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Envy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Thai Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Thai Massage	AcroYoga
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Frozen Shoulder
+Medical Specialties	Surgery	Orthopedics	Knee Surgery
+Medical Specialties	Surgery	Orthopedics	Shoulder Surgery
+Medical Specialties	Surgery	Orthopedics	Joint Replacement
+Medical Specialties	Surgery	Orthopedics	Joint Replacement	Hip Replacements
+Medical Specialties	Surgery	Orthopedics	Sports Medicine
+Medical Specialties	Surgery	Orthopedics	Foot and Ankle Surgery
+Medical Specialties	Surgery	Orthopedics	Hand Surgery
+Medical Specialties	Surgery	Orthopedics	Prosthetics
+Medical Specialties	Surgery	Orthopedics	Prosthetics	Oscar Pistorius (the "Blade Runner")
+Medical Specialties	Surgery	Orthopedics	Prosthetics	Oscar Pistorius (the "Blade Runner")	Blade Runner Performance at the London Olympics (Summer 2012)
+Medical Specialties	Surgery	Orthopedics	Prosthetics	Stents
+Medical Specialties	Surgery	Urology
+Medical Specialties	Surgery	Urology	Urinary Tract Infections
+Medical Specialties	Surgery	Urology	Andrology
+Medical Specialties	Surgery	Ophthalmology
+Medical Specialties	Surgery	Ophthalmology	Eye Diseases
+Medical Specialties	Surgery	Ophthalmology	Eye Diseases	Dry Eye Syndrome
+Medical Specialties	Surgery	Ophthalmology	Eye Diseases	Cataracts
+Medical Specialties	Surgery	Ophthalmology	Orthoptics
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Contact Lenses
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Contact Lenses	Bionic Contact Lenses
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Illusions
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Farsightedness
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Nearsightedness
+Medical Specialties	Surgery	Ophthalmology	Cornea Transplants
+Medical Specialties	Surgery	Traumatology
+Medical Specialties	Surgery	Surgical Procedures
+Medical Specialties	Surgery	Surgical Procedures	da Vinci Surgical System
+Medical Specialties	Surgery	Surgical Procedures	Mastectomy
+Medical Specialties	Surgery	Surgical Procedures	Stitches
+Medical Specialties	Surgery	Surgical Procedures	Sutures
+Medical Specialties	Surgery	Surgical Procedures	Caesarean Section
+Medical Specialties	Surgery	Surgeons
+Medical Specialties	Surgery	Surgical Procedures	Stitches
+Medical Specialties	Surgery	Organ Transplants
+Medical Specialties	Surgery	Organ Transplants	Head Transplant
+Medical Specialties	Surgery	Organ Transplants	Kidney Transplant
+Medical Specialties	Surgery	Organ Transplants	Pancreas Transplant
+Medical Specialties	Surgery	Organ Transplants	Cornea Transplants
+Medical Specialties	Surgery	Organ Transplants	Lung Transplants
+Medical Specialties	Surgery	Organ Transplants	Bone Marrow Transplants
+Medical Specialties	Surgery	Organ Transplants	Bone Marrow Transplants	Bone Marrow Registry
+Medical Specialties	Surgery	Organ Transplants	Bone Marrow Transplants	Bone Marrow Registry	National Marrow Donor Program
+Medical Specialties	Surgery	Organ Transplants	Hair Transplants
+Medical Specialties	Surgery	Organ Transplants	Liver Transplants
+Medical Specialties	Surgery	Organ Transplants	Heart Transplants
+Medical Specialties	Surgery	Organ Transplants	Organ Donation and Disposition
+Medical Specialties	Surgery	Cardiothoracic Surgery
+Medical Specialties	Surgery	Plastic Surgery
+Medical Specialties	Surgery	Plastic Surgery	Strax Rejuvenation
+Medical Specialties	Surgery	Plastic Surgery	Strax Rejuvenation	Florida Cosmetic Surgery
+Medical Specialties	Surgery	Plastic Surgery	Laser Liposuction
+Medical Specialties	Surgery	Plastic Surgery	Plastic Surgeons and Plastic Surgery Centers
+Medical Specialties	Surgery	Plastic Surgery	Plastic Surgeons and Plastic Surgery Centers	Tajmeel
+Medical Specialties	Surgery	Plastic Surgery	Rhinoplasty
+Medical Specialties	Surgery	Plastic Surgery	Plastic Surgery Review
+Medical Specialties	Surgery	Cosmetic Surgery
+Medical Specialties	Surgery	Cosmetic Surgery	Strax Rejuvenation
+Medical Specialties	Surgery	Cosmetic Surgery	Strax Rejuvenation	Florida Cosmetic Surgery
+Medical Specialties	Surgery	Cosmetic Surgery	Breast Augmentation and Implants
+Medical Specialties	Surgery	Cosmetic Surgery	Botox
+Medical Specialties	Surgery	Bariatrics
+Medical Specialties	Surgery	Eye Surgery
+Medical Specialties	Surgery	Eye Surgery	Laser Eye Surgery (LASIK)
+Medical Specialties	Surgery	Eye Surgery	Laser Eye Surgery (LASIK)	LasikPLUS
+Medical Specialties	Surgery	Tommy John Surgery
+Medical Specialties	Surgery	Head and Neck Surgery
+Medical Specialties	Surgery	Breast Reduction
+Medical Specialties	Surgery	Orthopedics	Prosthetics	Stents
+Medical Specialties	Surgery	Gastric Bypass Surgery
+Medical Specialties	Surgery	Orthopedics	Joint Replacement	Hip Replacements
+Medical Specialties	Surgery	Neurosurgery
+Medical Specialties	Radiology
+Medical Specialties	Radiology	Computerized Axial Tomography
+Medical Specialties	Radiology	Medical Imaging
+Medical Specialties	Radiology	Medical Imaging	In Vivo Imaging
+Medical Specialties	Radiology	Medical Imaging	DICOM (Digital Imaging and Communications in Medicine)
+Medical Specialties	Radiology	Medical Imaging	DICOM (Digital Imaging and Communications in Medicine)	DICOM Grid (company)
+Medical Specialties	Radiology	Medical Imaging	Endoscopy
+Medical Specialties	Radiology	Medical Imaging	Electroencephalography
+Medical Specialties	Radiology	Medical Imaging	Ultrasound
+Medical Specialties	Radiology	Medical Imaging	Ultrasound	Non-destructive Testing
+Medical Specialties	Radiology	Medical Imaging	Functional Near-Infrared Neuroimaging
+Medical Specialties	Radiology	Medical Imaging	Positron Emission Tomography
+Medical Specialties	Radiology	Medical Imaging	X-Ray Imaging
+Medical Specialties	Radiology	Medical Imaging	Computerized Axial Tomography
+Medical Specialties	Radiology	Medical Imaging	Magnetic Resonance Imaging
+Medical Specialties	Radiology	Medical Imaging	Magnetic Resonance Imaging	Functional Magnetic Resonance Imaging
+Medical Specialties	Psychiatry
+Medical Specialties	Psychiatry	Psychological Treatment
+Medical Specialties	Psychiatry	Telepsychiatry
+Medical Specialties	Psychiatry	Psychopharmacology
+Medical Specialties	Psychiatry	Psychopharmacology	Placebo Effect
+Medical Specialties	Psychiatry	Psychopharmacology	Placebo Effect	Placebos
+Medical Specialties	Psychiatry	Addiction Treatment
+Medical Specialties	Psychiatry	Addiction Treatment	Drug Rehabilitation
+Medical Specialties	Psychiatry	Addiction Treatment	Drug Rehabilitation	Quitting Smoking
+Medical Specialties	Psychiatry	Addiction Treatment	Drug Rehabilitation	Asking Someone to Get Sober
+Medical Specialties	Psychiatry	Addiction Treatment	Drug Rehabilitation	Asking Someone to Get Sober	Intervention
+Medical Specialties	Psychiatry	Hallucinations
+Medical Specialties	Psychiatry	Psychoanalysis
+Medical Specialties	Psychiatry	Psychoanalysis	Psychological Defenses
+Medical Specialties	Psychiatry	Psychoanalysis	Psychological Defenses	Neuroticism
+Medical Specialties	Psychiatry	Psychoanalysis	Psychological Defenses	Sublimation
+Medical Specialties	Psychiatry	Psychoanalysis	Psychological Defenses	Rationalisation
+Medical Specialties	Psychiatry	Psychoanalysis	Psychological Defenses	Denial
+Medical Specialties	Psychiatry	Psychoanalysis	Melanie Klein
+Medical Specialties	Psychiatry	Psychoanalysis	Dreams and Dreaming
+Medical Specialties	Psychiatry	Psychoanalysis	Dreams and Dreaming	Dream Interpretation
+Medical Specialties	Psychiatry	Psychoanalysis	Dreams and Dreaming	Dream Interpretation	Water in Dreams
+Medical Specialties	Psychiatry	Psychoanalysis	Dreams and Dreaming	Lucid Dreaming
+Medical Specialties	Psychiatry	Psychoanalysis	Dreams and Dreaming	Nightmares
+Medical Specialties	Psychiatry	Psychoanalysis	Child Development
+Medical Specialties	Psychiatry	Psychoanalysis	Child Development	Thumb Sucking
+Medical Specialties	Psychiatry	Psychoanalysis	Child Development	Quib.ly
+Medical Specialties	Psychiatry	Psychoanalysis	The Unconscious
+Medical Specialties	Psychiatry	Psychoanalysis	Carl Jung
+Medical Specialties	Psychiatry	Psychoanalysis	Carl Jung	Collective Unconscious
+Medical Specialties	Psychiatry	Psychoanalysis	Sigmund Freud
+Medical Specialties	Psychiatry	Psychoanalysis	Sigmund Freud	Psychological Repression
+Medical Specialties	Psychiatry	Psychoanalysis	Object Relations Theory
+Medical Specialties	Psychiatry	Psychotherapy
+Medical Specialties	Psychiatry	Psychotherapy	Group Therapy
+Medical Specialties	Psychiatry	Psychotherapy	Cognitive Behavioral Therapy
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Neuroticism
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Sublimation
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Rationalisation
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Denial
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Melanie Klein
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Dream Interpretation
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Dream Interpretation	Water in Dreams
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Lucid Dreaming
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Nightmares
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Child Development
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Child Development	Thumb Sucking
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Child Development	Quib.ly
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	The Unconscious
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Carl Jung
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Carl Jung	Collective Unconscious
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Sigmund Freud
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Sigmund Freud	Psychological Repression
+Medical Specialties	Psychiatry	Psychotherapy	Psychoanalysis	Object Relations Theory
+Medical Specialties	Psychiatry	Psychotherapy	Therapy Methods
+Medical Specialties	Psychiatry	Psychotherapy	Therapy Methods	Exposure Therapy
+Medical Specialties	Psychiatry	Psychotherapy	Multidisciplinary Association for Psychedelic Studies
+Medical Specialties	Psychiatry	Mental Health
+Medical Specialties	Psychiatry	Mental Health	Childhood Mental Health Advocacy
+Medical Specialties	Psychiatry	Mental Health	Mind UK
+Medical Specialties	Psychiatry	Mental Health	Canadian Mental Health
+Medical Specialties	Psychiatry	Mental Health	Canadian Mental Health	Canadian Mental Health Association
+Medical Specialties	Psychiatry	Mental Health	Community Mental Health Services
+Medical Specialties	Psychiatry	Mental Health	Sanity
+Medical Specialties	Psychiatry	Mental Health	Sanity	Insanity (unwellness)
+Medical Specialties	Psychiatry	Mental Health	Sanity	Insanity (unwellness)
+Medical Specialties	Psychiatry	Mental Health	Mental Health Abuses
+Medical Specialties	Psychiatry	Mental Health	Mental Health Abuses	Abuses Within Mental Health Systems
+Medical Specialties	Psychiatry	Mental Health	Mental Health Advocacy
+Medical Specialties	Psychiatry	Mental Health	Mental Health Advocacy	Childhood Mental Health Advocacy
+Medical Specialties	Psychiatry	Mental Health	Mental Health 2.0
+Medical Specialties	Psychiatry	Mental Health	ICD-10 Classification Transition
+Medical Specialties	Psychiatry	Mental Health	Mental Health Hacks
+Medical Specialties	Psychiatry	Mental Health	Savant Syndrome
+Medical Specialties	Psychiatry	Mental Health	Anxiety
+Medical Specialties	Psychiatry	Mental Health	Anxiety	Exposure Therapy
+Medical Specialties	Psychiatry	Mental Health	Anxiety	Socialphobia
+Medical Specialties	Psychiatry	Mental Health	Anxiety	Social Anxiety
+Medical Specialties	Psychiatry	Mental Health	Anxiety	Panic Attacks
+Medical Specialties	Psychiatry	Mental Health	Mental Illness
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Intellectual Disabilities
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Antisocial Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depressive Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive–Compulsive Personality Disorder (OCPD)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Self-defeating Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Sadistic Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Paranoid Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Kleptomania
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Body Dysmorphic Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Dissociative Identity Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Hallucinations
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Psychosis
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Post Traumatic Stress Disorder (PTSD)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Eating Disorders
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Bulimia Nervosa
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Anorexia Nervosa
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder	Exposure Therapy
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder	Daniel Johnston
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Schizophrenia
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Seasonal Affective Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Depression Treatment (non-drug)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Dysthymia
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Prozac
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	SNRI
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	DRI
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Discontinuation Syndrome
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Sertraline
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Escitalopram
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Dopamine
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology	Pregnenolone
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Wellbutrin
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Seasonal Affective Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Depression Treatment (non-drug)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Dysthymia
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Prozac
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	SNRI
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	DRI
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Discontinuation Syndrome
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Sertraline
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Escitalopram
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Dopamine
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology	Pregnenolone
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Wellbutrin
+Medical Specialties	Psychiatry	Mental Health	Mental Illness
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Intellectual Disabilities
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Antisocial Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depressive Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive–Compulsive Personality Disorder (OCPD)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Self-defeating Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Sadistic Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Paranoid Personality Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Kleptomania
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Body Dysmorphic Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Dissociative Identity Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Hallucinations
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Psychosis
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Post Traumatic Stress Disorder (PTSD)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Eating Disorders
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Bulimia Nervosa
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Anorexia Nervosa
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder	Exposure Therapy
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder	Daniel Johnston
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Schizophrenia
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Seasonal Affective Disorder
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Depression Treatment (non-drug)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Dysthymia
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Prozac
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	SNRI
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	DRI
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Discontinuation Syndrome
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Sertraline
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Escitalopram
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Dopamine
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology	Pregnenolone
+Medical Specialties	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Wellbutrin
+Medical Specialties	Pediatrics
+Medical Specialties	Pediatrics	Breath-holding spells
+Medical Specialties	Pediatrics	Children's Hospitals
+Medical Specialties	Pediatrics	Children's Hospitals	Rady Children's Hospital-San Diego
+Medical Specialties	Pediatrics	Children's Hospitals	Seattle Children's Hospital
+Medical Specialties	Pediatrics	Children's Hospitals	Texas Children's Hospital
+Medical Specialties	Pediatrics	Children's Hospitals	Cincinnati Children's Hospital
+Medical Specialties	Pediatrics	Children's Hospitals	The Children's Hospital of Philadelphia
+Medical Specialties	Pediatrics	Children's Hospitals	ALSAC/St. Jude Children's Research Hospital
+Medical Specialties	Pediatrics	Children's Hospitals	Children's Hospital Boston
+Medical Specialties	Pediatrics	Pediatric Dentistry
+Medical Specialties	Pediatrics	Pediatric Cancer
+Medical Specialties	Surgery	Orthopedics
+Medical Specialties	Surgery	Orthopedics	Physical Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Recreation Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Acute Care Physical Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Envy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Thai Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Thai Massage	AcroYoga
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Surgery	Orthopedics	Physical Therapy	Frozen Shoulder
+Medical Specialties	Surgery	Orthopedics	Knee Surgery
+Medical Specialties	Surgery	Orthopedics	Shoulder Surgery
+Medical Specialties	Surgery	Orthopedics	Joint Replacement
+Medical Specialties	Surgery	Orthopedics	Joint Replacement	Hip Replacements
+Medical Specialties	Surgery	Orthopedics	Sports Medicine
+Medical Specialties	Surgery	Orthopedics	Foot and Ankle Surgery
+Medical Specialties	Surgery	Orthopedics	Hand Surgery
+Medical Specialties	Surgery	Orthopedics	Prosthetics
+Medical Specialties	Surgery	Orthopedics	Prosthetics	Oscar Pistorius (the "Blade Runner")
+Medical Specialties	Surgery	Orthopedics	Prosthetics	Oscar Pistorius (the "Blade Runner")	Blade Runner Performance at the London Olympics (Summer 2012)
+Medical Specialties	Surgery	Orthopedics	Prosthetics	Stents
+Medical Specialties	Surgery	Ophthalmology
+Medical Specialties	Surgery	Ophthalmology	Eye Diseases
+Medical Specialties	Surgery	Ophthalmology	Eye Diseases	Dry Eye Syndrome
+Medical Specialties	Surgery	Ophthalmology	Eye Diseases	Cataracts
+Medical Specialties	Surgery	Ophthalmology	Orthoptics
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Contact Lenses
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Contact Lenses	Bionic Contact Lenses
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Illusions
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Farsightedness
+Medical Specialties	Surgery	Ophthalmology	Vision (eyesight)	Nearsightedness
+Medical Specialties	Surgery	Ophthalmology	Cornea Transplants
+Medical Specialties	Oncology
+Medical Specialties	Oncology	Radiation Therapy
+Medical Specialties	Oncology	Hodgkin's Lymphoma
+Medical Specialties	Surgery	Neurosurgery
+Medical Specialties	Neurology
+Medical Specialties	Neurology	Neurological Conditions
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Epilepsy
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Migraines
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Multiple System Atrophy (MSA)
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Asperger Syndrome
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Huntington's Disease
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Dementia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Amnesia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Aphasia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Parkinson's Disease
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Alzheimer's Disease
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Spinal Disorders
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Brain Damage
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Williams-Beuren Syndrome
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Dystonia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Amyotrophic Lateral Sclerosis (ALS)
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Narcolepsy
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Sensory Processing Disorder
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Autism
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Autism	Autism Rights
+Medical Specialties	Neurology	Neurological Conditions	Discontinuation Syndrome
+Medical Specialties	Neurology	Human Brain
+Medical Specialties	Neurology	Human Brain	Auditory System
+Medical Specialties	Neurology	Human Brain	Head Transplant
+Medical Specialties	Neurology	Human Brain	Brain Injury
+Medical Specialties	Neurology	Human Brain	Brain Injury	Traumatic Brain Injury
+Medical Specialties	Neurology	Human Brain	Brain Injury	Traumatic Brain Injury	Concussions
+Medical Specialties	Neurology	Human Brain	Brain Injury	Acquired Brain Injury
+Medical Specialties	Neurology	Human Brain	Mind Control
+Medical Specialties	Neurology	Human Brain	Psychiatry
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychological Treatment
+Medical Specialties	Neurology	Human Brain	Psychiatry	Telepsychiatry
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychopharmacology
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychopharmacology	Placebo Effect
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychopharmacology	Placebo Effect	Placebos
+Medical Specialties	Neurology	Human Brain	Psychiatry	Addiction Treatment
+Medical Specialties	Neurology	Human Brain	Psychiatry	Addiction Treatment	Drug Rehabilitation
+Medical Specialties	Neurology	Human Brain	Psychiatry	Addiction Treatment	Drug Rehabilitation	Quitting Smoking
+Medical Specialties	Neurology	Human Brain	Psychiatry	Addiction Treatment	Drug Rehabilitation	Asking Someone to Get Sober
+Medical Specialties	Neurology	Human Brain	Psychiatry	Addiction Treatment	Drug Rehabilitation	Asking Someone to Get Sober	Intervention
+Medical Specialties	Neurology	Human Brain	Psychiatry	Hallucinations
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Psychological Defenses
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Psychological Defenses	Neuroticism
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Psychological Defenses	Sublimation
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Psychological Defenses	Rationalisation
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Psychological Defenses	Denial
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Melanie Klein
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Dreams and Dreaming
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Dreams and Dreaming	Dream Interpretation
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Dreams and Dreaming	Dream Interpretation	Water in Dreams
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Dreams and Dreaming	Lucid Dreaming
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Dreams and Dreaming	Nightmares
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Child Development
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Child Development	Thumb Sucking
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Child Development	Quib.ly
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	The Unconscious
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Carl Jung
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Carl Jung	Collective Unconscious
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Sigmund Freud
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Sigmund Freud	Psychological Repression
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychoanalysis	Object Relations Theory
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Group Therapy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Cognitive Behavioral Therapy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Neuroticism
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Sublimation
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Rationalisation
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Psychological Defenses	Denial
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Melanie Klein
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Dream Interpretation
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Dream Interpretation	Water in Dreams
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Lucid Dreaming
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Dreams and Dreaming	Nightmares
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Child Development
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Child Development	Thumb Sucking
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Child Development	Quib.ly
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	The Unconscious
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Carl Jung
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Carl Jung	Collective Unconscious
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Sigmund Freud
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Sigmund Freud	Psychological Repression
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Psychoanalysis	Object Relations Theory
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Therapy Methods
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Therapy Methods	Exposure Therapy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Psychotherapy	Multidisciplinary Association for Psychedelic Studies
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Childhood Mental Health Advocacy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mind UK
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Canadian Mental Health
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Canadian Mental Health	Canadian Mental Health Association
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Community Mental Health Services
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Sanity
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Sanity	Insanity (unwellness)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Sanity	Insanity (unwellness)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Health Abuses
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Health Abuses	Abuses Within Mental Health Systems
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Health Advocacy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Health Advocacy	Childhood Mental Health Advocacy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Health 2.0
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	ICD-10 Classification Transition
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Health Hacks
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Savant Syndrome
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Anxiety
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Anxiety	Exposure Therapy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Anxiety	Socialphobia
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Anxiety	Social Anxiety
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Anxiety	Panic Attacks
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Intellectual Disabilities
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Antisocial Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depressive Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive–Compulsive Personality Disorder (OCPD)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Self-defeating Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Sadistic Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Paranoid Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Kleptomania
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Body Dysmorphic Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Dissociative Identity Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Hallucinations
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Psychosis
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Post Traumatic Stress Disorder (PTSD)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Eating Disorders
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Bulimia Nervosa
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Anorexia Nervosa
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder	Exposure Therapy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder	Daniel Johnston
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Schizophrenia
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Seasonal Affective Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Depression Treatment (non-drug)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Dysthymia
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Prozac
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	SNRI
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	DRI
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Discontinuation Syndrome
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Sertraline
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Escitalopram
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Dopamine
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology	Pregnenolone
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Wellbutrin
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Seasonal Affective Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Depression Treatment (non-drug)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Dysthymia
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Prozac
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	SNRI
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	DRI
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Discontinuation Syndrome
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Sertraline
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Escitalopram
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Dopamine
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology	Pregnenolone
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Wellbutrin
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Intellectual Disabilities
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Antisocial Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depressive Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive–Compulsive Personality Disorder (OCPD)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Self-defeating Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Sadistic Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Paranoid Personality Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Kleptomania
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Body Dysmorphic Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Dissociative Identity Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Hallucinations
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Psychosis
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Post Traumatic Stress Disorder (PTSD)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Eating Disorders
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Bulimia Nervosa
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Eating Disorders	Anorexia Nervosa
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Obsessive-Compulsive Disorder	Exposure Therapy
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Bipolar Disorder	Daniel Johnston
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Schizophrenia
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Seasonal Affective Disorder
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Depression Treatment (non-drug)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Dysthymia
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Prozac
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	SNRI
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	DRI
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Discontinuation Syndrome
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Sertraline
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Selective Serotonin Reuptake Inhibitors (SSRIs)	Escitalopram
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Dopamine
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Neuropharmacology	Pregnenolone
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Depression	Antidepressants	Wellbutrin
+Medical Specialties	Neurology	Human Brain	Amygdala
+Medical Specialties	Neurology	Human Brain	Artistic Ability
+Medical Specialties	Neurology	Human Brain	Corpus Callosum
+Medical Specialties	Neurology	Human Brain	Brain vs. "the Mind"
+Medical Specialties	Neurology	Human Brain	Frontal Lobe
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Hallucinations
+Medical Specialties	Neurology	Human Brain	Psychiatry	Mental Health	Mental Illness	Hallucinations
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Epilepsy
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Migraines
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Multiple System Atrophy (MSA)
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Asperger Syndrome
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Huntington's Disease
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Dementia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Amnesia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Aphasia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Parkinson's Disease
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Alzheimer's Disease
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Spinal Disorders
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Brain Damage
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Williams-Beuren Syndrome
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Dystonia
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Amyotrophic Lateral Sclerosis (ALS)
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Narcolepsy
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Sensory Processing Disorder
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Autism
+Medical Specialties	Neurology	Neurological Conditions	Neurological Disorders	Autism	Autism Rights
+Medical Specialties	Neurology	CIDP
+Medical Specialties	Neurology	Neuromuscular Diseases
+Medical Specialties	Neurology	Neuromuscular Diseases	Fibromyalgia
+Medical Specialties	Neurology	Neuromuscular Diseases	Myopathy
+Medical Specialties	Neurology	Neuromuscular Diseases	Myopathy	Fibromyalgia
+Medical Specialties	Neurology	Human Nervous System
+Medical Specialties	Neurology	Fainting
+Medical Specialties	Immunology	Infectious Diseases
+Medical Specialties	Immunology	Infectious Diseases	Lyme Disease
+Medical Specialties	Immunology	Infectious Diseases	Medical Mycology
+Medical Specialties	Immunology	Infectious Diseases	Urinary Tract Infections
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Leprosy
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Sleeping Sickness
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Chagas Disease
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Malaria
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Dengue Fever
+Medical Specialties	Immunology	Infectious Diseases	MAC (Mycobacterium avium complex)
+Medical Specialties	Immunology	Infectious Diseases	Parasites
+Medical Specialties	Immunology	Infectious Diseases	Parasites	Giardia
+Medical Specialties	Immunology	Infectious Diseases	Parasites	Malaria
+Medical Specialties	Immunology	Infectious Diseases	Disease Eradication
+Medical Specialties	Immunology	Infectious Diseases	Polio
+Medical Specialties	Immunology	Infectious Diseases	Yellow Fever (viral disease)
+Medical Specialties	Immunology	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Immunology	Infectious Diseases	Staph Infection
+Medical Specialties	Immunology	Infectious Diseases	Anthrax
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis C
+Medical Specialties	Immunology	Infectious Diseases	Chlamydia
+Medical Specialties	Immunology	Infectious Diseases	Yeast Infections
+Medical Specialties	Immunology	Infectious Diseases	Virology
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	SARS
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	MERS-CoV (Virus)
+Medical Specialties	Immunology	Infectious Diseases	Virology	HIV
+Medical Specialties	Immunology	Infectious Diseases	Virology	HIV	HIV Prevention
+Medical Specialties	Immunology	Infectious Diseases	Virology	HIV	AIDS Research
+Medical Specialties	Immunology	Infectious Diseases	Virology	Bacteriophage
+Medical Specialties	Immunology	Infectious Diseases	Virology	Human Papilloma Virus (HPV)
+Medical Specialties	Immunology	Infectious Diseases	Virology	Hepatitis C
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Immunology	Infectious Diseases	Immunizations
+Medical Specialties	Immunology	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Immunology	Infectious Diseases	Mad Cow Disease
+Medical Specialties	Immunology	Infectious Diseases	Prions
+Medical Specialties	Immunology	Infectious Diseases	Tetanus
+Medical Specialties	Immunology	Infectious Diseases	Fever
+Medical Specialties	Immunology	Infectious Diseases	Fever	Typhoid Fever
+Medical Specialties	Immunology	Infectious Diseases	Fever	Dengue Fever
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis	Hepatitis B
+Medical Specialties	Immunology	Infectious Diseases	Hepatitis	Hepatitis C
+Medical Specialties	Immunology	Infectious Diseases	Plagues
+Medical Specialties	Immunology	Infectious Diseases	National Institute of Allergy and Infectious Diseases (NIAID)
+Medical Specialties	Immunology	Infectious Diseases	Mononucleosis
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Immunology	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Pathology	Clinical Pathology	Hematology
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Leukemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Leukemia	Waldenstrom's Macroglobulinemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Lymphoma
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Lymphoma	Hodgkin's Lymphoma
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Hemophilia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Thalassemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Thalassemia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Hemophilia
+Medical Specialties	Pathology	Clinical Pathology	Hematology	Blood Disorders	Lymphoma	Hodgkin's Lymphoma
+Medical Specialties	Gastroenterology
+Medical Specialties	Gastroenterology	Gastrointestinal Disease
+Medical Specialties	Gastroenterology	Gastrointestinal Disease	Hemorrhoids
+Medical Specialties	Gastroenterology	Gastrointestinal Disease	Acid Reflux
+Medical Specialties	Gastroenterology	Gastrointestinal Disease	Crohn's Disease
+Medical Specialties	Gastroenterology	Gastrointestinal Disease	GERD
+Medical Specialties	Gastroenterology	Cirrhosis
+Medical Specialties	Internal Medicine
+Medical Specialties	Internal Medicine	Orthopedics
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Recreation Therapy
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Acute Care Physical Therapy
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Envy
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Thai Massage
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Thai Massage	AcroYoga
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Myomassology
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Acupressure
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Reflexology
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Swedish Institute for Massage Therapy in New York, N.Y.
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Thai Massage	AcroYoga
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Massage	Massage Therapy	Shiatsu
+Medical Specialties	Internal Medicine	Orthopedics	Physical Therapy	Frozen Shoulder
+Medical Specialties	Internal Medicine	Orthopedics	Knee Surgery
+Medical Specialties	Internal Medicine	Orthopedics	Shoulder Surgery
+Medical Specialties	Internal Medicine	Orthopedics	Joint Replacement
+Medical Specialties	Internal Medicine	Orthopedics	Joint Replacement	Hip Replacements
+Medical Specialties	Internal Medicine	Orthopedics	Sports Medicine
+Medical Specialties	Internal Medicine	Orthopedics	Foot and Ankle Surgery
+Medical Specialties	Internal Medicine	Orthopedics	Hand Surgery
+Medical Specialties	Internal Medicine	Orthopedics	Prosthetics
+Medical Specialties	Internal Medicine	Orthopedics	Prosthetics	Oscar Pistorius (the "Blade Runner")
+Medical Specialties	Internal Medicine	Orthopedics	Prosthetics	Oscar Pistorius (the "Blade Runner")	Blade Runner Performance at the London Olympics (Summer 2012)
+Medical Specialties	Internal Medicine	Orthopedics	Prosthetics	Stents
+Medical Specialties	Internal Medicine	Sleep Medicine
+Medical Specialties	Internal Medicine	Rheumatology
+Medical Specialties	Internal Medicine	Nephrology
+Medical Specialties	Internal Medicine	Nephrology	Kidney Stones
+Medical Specialties	Internal Medicine	Nephrology	Kidneys
+Medical Specialties	Internal Medicine	Nephrology	Kidneys	Kidney Transplant
+Medical Specialties	Internal Medicine	Nephrology	Kidneys	Kidney Stones
+Medical Specialties	Internal Medicine	Oncology
+Medical Specialties	Internal Medicine	Oncology	Radiation Therapy
+Medical Specialties	Internal Medicine	Oncology	Hodgkin's Lymphoma
+Medical Specialties	Internal Medicine	Infectious Diseases
+Medical Specialties	Internal Medicine	Infectious Diseases	Lyme Disease
+Medical Specialties	Internal Medicine	Infectious Diseases	Medical Mycology
+Medical Specialties	Internal Medicine	Infectious Diseases	Urinary Tract Infections
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases	Leprosy
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases	Sleeping Sickness
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases	Chagas Disease
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases	Malaria
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases	Dengue Fever
+Medical Specialties	Internal Medicine	Infectious Diseases	MAC (Mycobacterium avium complex)
+Medical Specialties	Internal Medicine	Infectious Diseases	Parasites
+Medical Specialties	Internal Medicine	Infectious Diseases	Parasites	Giardia
+Medical Specialties	Internal Medicine	Infectious Diseases	Parasites	Malaria
+Medical Specialties	Internal Medicine	Infectious Diseases	Disease Eradication
+Medical Specialties	Internal Medicine	Infectious Diseases	Polio
+Medical Specialties	Internal Medicine	Infectious Diseases	Yellow Fever (viral disease)
+Medical Specialties	Internal Medicine	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Internal Medicine	Infectious Diseases	Staph Infection
+Medical Specialties	Internal Medicine	Infectious Diseases	Anthrax
+Medical Specialties	Internal Medicine	Infectious Diseases	Hepatitis C
+Medical Specialties	Internal Medicine	Infectious Diseases	Chlamydia
+Medical Specialties	Internal Medicine	Infectious Diseases	Yeast Infections
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Coronaviruses
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Coronaviruses	SARS
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Coronaviruses	MERS-CoV (Virus)
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	HIV
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	HIV	HIV Prevention
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	HIV	AIDS Research
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Bacteriophage
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Human Papilloma Virus (HPV)
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Hepatitis C
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Internal Medicine	Infectious Diseases	Immunizations
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Internal Medicine	Infectious Diseases	Mad Cow Disease
+Medical Specialties	Internal Medicine	Infectious Diseases	Prions
+Medical Specialties	Internal Medicine	Infectious Diseases	Tetanus
+Medical Specialties	Internal Medicine	Infectious Diseases	Fever
+Medical Specialties	Internal Medicine	Infectious Diseases	Fever	Typhoid Fever
+Medical Specialties	Internal Medicine	Infectious Diseases	Fever	Dengue Fever
+Medical Specialties	Internal Medicine	Infectious Diseases	Hepatitis
+Medical Specialties	Internal Medicine	Infectious Diseases	Hepatitis	Hepatitis B
+Medical Specialties	Internal Medicine	Infectious Diseases	Hepatitis	Hepatitis C
+Medical Specialties	Internal Medicine	Infectious Diseases	Plagues
+Medical Specialties	Internal Medicine	Infectious Diseases	National Institute of Allergy and Infectious Diseases (NIAID)
+Medical Specialties	Internal Medicine	Infectious Diseases	Mononucleosis
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Internal Medicine	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Internal Medicine	Hematology
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Leukemia
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Leukemia	Waldenstrom's Macroglobulinemia
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Lymphoma
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Lymphoma	Hodgkin's Lymphoma
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Hemophilia
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Thalassemia
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Thalassemia
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Hemophilia
+Medical Specialties	Internal Medicine	Hematology	Blood Disorders	Lymphoma	Hodgkin's Lymphoma
+Medical Specialties	Internal Medicine	Geriatrics
+Medical Specialties	Internal Medicine	Gastroenterology
+Medical Specialties	Internal Medicine	Gastroenterology	Gastrointestinal Disease
+Medical Specialties	Internal Medicine	Gastroenterology	Gastrointestinal Disease	Hemorrhoids
+Medical Specialties	Internal Medicine	Gastroenterology	Gastrointestinal Disease	Acid Reflux
+Medical Specialties	Internal Medicine	Gastroenterology	Gastrointestinal Disease	Crohn's Disease
+Medical Specialties	Internal Medicine	Gastroenterology	Gastrointestinal Disease	GERD
+Medical Specialties	Internal Medicine	Gastroenterology	Cirrhosis
+Medical Specialties	Internal Medicine	Critical Care
+Medical Specialties	Internal Medicine	Endocrinology
+Medical Specialties	Internal Medicine	Endocrinology	Diabetology
+Medical Specialties	Internal Medicine	Endocrinology	Premenstrual Syndrome (PMS)
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	American Diabetes Association
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Insulin
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Insulin	Insulin Resistance
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Diets for Diabetics
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Diabetes Treatment
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Anti-diabetic Medication
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Type II Diabetes
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Type 1 Diabetes
+Medical Specialties	Internal Medicine	Immunology
+Medical Specialties	Internal Medicine	Immunology	Intestinal Bacteria
+Medical Specialties	Internal Medicine	Immunology	Immunizations
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Hives
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Sitters
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Small Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Walkers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Meat
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	DogsBite.org
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Disabled Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Matchpuppy
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Mutts
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Health
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Parks
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Blackwood, NJ
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Blackwood, NJ	Doberman
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Clicker Training
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Attack Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Puppies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Puppies	Clicker Training
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Hunting Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Small Dog Syndrome
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Clicker Training
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Dog Training
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Dog Training	Puppies Behind Bars
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Dog Training	Clicker Training
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Behavior	Biting (dogs)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Grooming
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Weimaraners
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Boo (dog)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Supplies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Guide Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Whelping
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Kennels
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Service Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Service Dogs	Therapy Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Memory
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog-Friendly Places
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog-Friendly Places	Dog Parks
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Stray Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Raggle
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Rottaf
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Schnoodles
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Pugapoo
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Papigriffon
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Olde Bulldog
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Labradoodle
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Lab Aire
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Goldendoodles
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Cockapoo
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Chug
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Bowzer
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Affenhuahua
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Affenpoo
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Airedoodles
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Yorkie-Chon
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Maru (mixed breed dog)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Labrotties
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Mixed Breed Dogs	Designer Dogs	Labradoodle
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Irish Setters
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Portuguese Water Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Samoyeds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Rottweilers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Working Dogs	Bernese Mountain Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Toy Poodles
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Yorkshire Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Toy Fox Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Silky Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Shih Tzu
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pugs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pomeranians
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pomeranians	Boo (dog)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Petit Brabançon
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Pekingese
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Papillons
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Miniature Pinschers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Manchester Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Maltese
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Japanese Chin (dog)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Italian Greyhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Havanese
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	English Toy Spaniel
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Chinese Crested
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Chihuahuas
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Cavalier King Charles Spaniel
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Brussels Griffons
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Toy Dogs	Affenpinscher
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Pit Bulls
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Rat Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Fox Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Terriers	Sealyham Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	English Setters
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	English Cocker Spaniels
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Curly-Coated Retrievers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Vizslas
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Spinone Italiano
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Labrador Retrievers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Golden Retrievers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Cocker Spaniels
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Clumber Spaniels
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Chesapeake Bay Retrievers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Brittanys (dog)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	Boykin Spaniels
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Sporting Dogs	American Water Spaniels
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Xoloitzcuintle
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Tibetan Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Tibetan Spaniels
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Shiba Inus
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Schipperkes
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Poodles
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Norweigian Lundehunds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Lowchens
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Lhasa Apsos
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Keeshonds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	French Bulldogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Finnish Spitz
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Dalmatians
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Chow Chows
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Chinese Shar-Pei
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Bulldogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Boston Terriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	Bichon Frise
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Non-Sporting Dogs	American Eskimo Dog
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Rhodesian Ridgebacks
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Petit Basset Griffon Vendéen
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Otterhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Norwegian Elkhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Harriers
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Foxhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Foxhounds	English Foxhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Foxhounds	American Foxhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Dachshunds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Plotts
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Redbone Coonhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Bluetick Coonhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Coonhounds	Black and Tan Coonhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Bloodhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Beagles
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Basset Hounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Scent Hounds	Basenjis
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Whippets
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Scottish Deerhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Salukis
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Pharaoh Hounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Irish Wolfhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Ibizan Hounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Greyhounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Greyhounds	Greyhound Racing
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Borzois
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Hounds	Sight Hounds	Afghan Hounds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Swedish Vallhunds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Shetland Sheepdogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Pyrenean Shepherds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Puli (dog)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Polish Lowlands
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Pembroke Welsh Corgis
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Old English Sheepdogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Norwegian Buhunds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Icelandic Sheepdogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	German Shepherd Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Entlebucher Mountain Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Collies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Cardigan Welsh Corgis
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Canaan Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Briards
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Bouvier Des Flandres
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Border Collies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Belgian Tervurens
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Belgian Sheepdogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Belgian Malinois
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Beaucerons
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Bearded Collies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Australian Shepherds
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Dogs (pets)	Dog Breeds	Herding Dogs	Australian Cattle Dogs
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Hypoallergenic Products
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Allergy Shots
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Food Allergies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Food Allergies	Peanut Allergies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Food Allergies	Gluten Allergies
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Food Allergies	Gluten Allergies	Celiac Disease
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	National Institute of Allergy and Infectious Diseases (NIAID)
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Rheumatoid Arthritis
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Lupus
+Medical Specialties	Internal Medicine	Immunology	Autoimmunity	Allergies	Food Allergies	Gluten Allergies	Celiac Disease
+Medical Specialties	Internal Medicine	Immunology	Clinical Immunology
+Medical Specialties	Internal Medicine	Immunology	Tregs
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Lyme Disease
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Medical Mycology
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Urinary Tract Infections
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases	Leprosy
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases	Sleeping Sickness
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases	Chagas Disease
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases	Malaria
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases	Dengue Fever
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	MAC (Mycobacterium avium complex)
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Parasites
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Parasites	Giardia
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Parasites	Malaria
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Disease Eradication
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Polio
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Yellow Fever (viral disease)
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tropical Diseases	Tuberculosis
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Staph Infection
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Anthrax
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Hepatitis C
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Chlamydia
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Yeast Infections
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Coronaviruses
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Coronaviruses	SARS
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Coronaviruses	MERS-CoV (Virus)
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	HIV
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	HIV	HIV Prevention
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	HIV	AIDS Research
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Bacteriophage
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Human Papilloma Virus (HPV)
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Hepatitis C
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Immunizations
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Smallpox
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Mad Cow Disease
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Prions
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Tetanus
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Fever
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Fever	Typhoid Fever
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Fever	Dengue Fever
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Hepatitis
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Hepatitis	Hepatitis B
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Hepatitis	Hepatitis C
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Plagues
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	National Institute of Allergy and Infectious Diseases (NIAID)
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Mononucleosis
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	H7N9
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	Flu Shots and Seasonal Flu Shot
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	H5N1
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Influenza	H1N1
+Medical Specialties	Internal Medicine	Immunology	Infectious Diseases	Virology	Coronaviruses	Colds and the Common Cold
+Medical Specialties	Internal Medicine	Cardiology
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hemorrhoids
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Arrhythmia
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Anemia
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Anemia	Thalassemia
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension	Pulmonary Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Vascular Disease
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Deep Vein Thrombosis
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Aneurysm
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Atherosclerosis
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Strokes (medical condition)
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Heart Attacks
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Heart Disease
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Heart Attacks
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Deep Vein Thrombosis
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension	Pulmonary Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiac Rehabilitation
+Medical Specialties	Internal Medicine	Pulmonology
+Medical Specialties	Internal Medicine	Pulmonology	Lung Cancer
+Medical Specialties	Internal Medicine	Pulmonology	Pulmonary Fibrosis
+Medical Specialties	Internal Medicine	Thoracic Medicine
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions	Coughing
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions	Pneumonia
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions	Asthma
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions	Tonsillitis
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions	Sinusitis
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions	Bronchitis
+Medical Specialties	Internal Medicine	Thoracic Medicine	Respiratory Conditions	Chronic Obstructive Pulmonary Disease
+Medical Specialties	Internal Medicine	Thoracic Medicine	Lung Catheters
+Medical Specialties	Family Practice
+Medical Specialties	Internal Medicine	Endocrinology
+Medical Specialties	Internal Medicine	Endocrinology	Diabetology
+Medical Specialties	Internal Medicine	Endocrinology	Premenstrual Syndrome (PMS)
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	American Diabetes Association
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Insulin
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Insulin	Insulin Resistance
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Diets for Diabetics
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Diabetes Treatment
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Anti-diabetic Medication
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Type II Diabetes
+Medical Specialties	Internal Medicine	Endocrinology	Diabetes	Type 1 Diabetes
+Medical Specialties	Emergency Medicine
+Medical Specialties	Emergency Medicine	Emergency Medical Services (EMS)
+Medical Specialties	Emergency Medicine	Emergency Medical Services (EMS)	EMTs & Paramedics
+Medical Specialties	Emergency Medicine	Emergency Medical Services (EMS)	EMTs & Paramedics
+Medical Specialties	Emergency Medicine	Toxicology and Poison
+Medical Specialties	Emergency Medicine	Toxicology and Poison	Poisonous mushrooms
+Medical Specialties	Emergency Medicine	Toxicology and Poison	Drug Safety
+Medical Specialties	Emergency Medicine	Toxicology and Poison	Pesticides
+Medical Specialties	Emergency Medicine	Toxicology and Poison	Pesticides	Monsanto
+Medical Specialties	Emergency Medicine	Toxicology and Poison	Pesticides	Monsanto	Monsanto Acquires Climate Corporation (October 2013)
+Medical Specialties	Emergency Medicine	Toxicology and Poison	Pesticides	Forchlorfenuron
+Medical Specialties	Emergency Medicine	Toxicology and Poison	Carcinogens
+Medical Specialties	Emergency Medicine	First Aid
+Medical Specialties	Emergency Medicine	London Ambulance Service
+Medical Specialties	Emergency Medicine	Triage
+Medical Specialties	Dermatology
+Medical Specialties	Dermatology	Skin Diseases
+Medical Specialties	Dermatology	Botox
+Medical Specialties	Dermatology	Hives
+Medical Specialties	Dermatology	Tinea
+Medical Specialties	Dermatology	Dermatopathology
+Medical Specialties	Dermatology	Skin Rash
+Medical Specialties	Dermatology	Melanoma
+Medical Specialties	Dermatology	Eczema
+Medical Specialties	Dermatology	Birthmarks
+Medical Specialties	Dermatology	Itching
+Medical Specialties	Dermatology	Itching	Ear Itching
+Medical Specialties	Dermatology	Rosacea
+Medical Specialties	Dermatology	Skin Cancer
+Medical Specialties	Dermatology	Skin Cancer	Melanoma
+Medical Specialties	Dermatology	Blackheads
+Medical Specialties	Dermatology	Psoriasis
+Medical Specialties	Dermatology	Acne
+Medical Specialties	Dermatology	Acne	Blackheads
+Medical Specialties	Internal Medicine	Cardiology
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hemorrhoids
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Arrhythmia
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Anemia
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Anemia	Thalassemia
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension	Pulmonary Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Vascular Disease
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Deep Vein Thrombosis
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Aneurysm
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Atherosclerosis
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Strokes (medical condition)
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Heart Attacks
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Heart Disease
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Heart Attacks
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Deep Vein Thrombosis
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiovascular Diseases	Hypertension	Pulmonary Hypertension
+Medical Specialties	Internal Medicine	Cardiology	Cardiac Rehabilitation
+Medical Specialties	Anesthesiology
+Medical Specialties	Anesthesiology	Pain Management
+Medical Specialties	Anesthesiology	Regional Anesthesia
